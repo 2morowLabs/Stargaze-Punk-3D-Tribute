@@ -3,7 +3,7 @@
 ### **Funny tribute to the Stargaze Punks collection :)**
 <br/>
 <video width="350" autoplay controls loop>
-  <source src="https://raw.githubusercontent.com/2morowLabs/Stargaze-Punk-3D-Tribute/9bf329462ddaf6c65501a1e170447c5b33934085/logo.mp4">
+  <source src="https://cloud.marcotommoro.duckdns.org/apps/sharingpath/marcotommoro/public/finalee.mp4">
 </video>
 
 ## Go find us
