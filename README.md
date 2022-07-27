@@ -2,7 +2,7 @@
 
 ### **Funny tribute to the Stargaze Punks collection :)**
 <br>
-<img width=300 src="https://cloud.marcotommoro.duckdns.org/apps/sharingpath/marcotommoro/public/logo_punks.gif"/>
+<img width=300 src="logo.gif"/>
 
 ## Go find us
 - [Hubble tools](https://www.hubble.tools/collections/stargaze-punk-3d-tribute)
