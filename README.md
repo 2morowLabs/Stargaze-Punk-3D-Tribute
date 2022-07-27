@@ -1,8 +1,10 @@
 # Stargaze Punk 3D Tribute
 
 ### **Funny tribute to the Stargaze Punks collection :)**
-<br>
-<img width=300 src="logo.gif"/>
+<br/>
+<video width="320" autoplay controls loop>
+  <source src="logo.mp4">
+</video>
 
 ## Go find us
 - [Hubble tools](https://www.hubble.tools/collections/stargaze-punk-3d-tribute)
