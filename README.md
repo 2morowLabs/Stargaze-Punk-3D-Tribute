@@ -2,10 +2,8 @@
 
 ### **Funny tribute to the Stargaze Punks collection :)**
 
-<video width="350" autoplay controls loop>
-  <source src="https://cloud.marcotommoro.duckdns.org/apps/sharingpath/marcotommoro/public/finalee.mp4" type="video/mp4">
-</video>
-
+<video src="https://user-images.githubusercontent.com/65455109/181442094-ae7998a7-2420-4141-80ea-ed448944dbad.mp4" autoplay loop controls muted></video>
+  
 ## Go find us
 - [Hubble tools](https://www.hubble.tools/collections/stargaze-punk-3d-tribute)
 - [Stargaze Launchpad](https://app.stargaze.zone/launchpad/stars1hmftx5e097l3lntenunt6zh7zd86z2rpvdvl7dw0yulxl7eu0v3qe9wky9)
